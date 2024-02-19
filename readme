@@ -1,0 +1,15 @@
+Un biglietto del treno da calcolare a 0.21€/km in più si applica uno sconto del 20% ai minorenni e 40% agli over 65 arrotondato con massimo due cifre decimali
+-Chiedo di inserire età e km con un promt e una volta calcolato il costo, in base alla età applico lo sconto e lo arrotondo e lo stampo in console
+
+//Strumenti
+-promt
+-let/const
+-toFixed
+-allert
+
+
+/*
+let numero = 10.56789;
+let numeroArrotondato = numero.toFixed(2);
+console.log(numeroArrotondato); // Output: 10.57
+*/
